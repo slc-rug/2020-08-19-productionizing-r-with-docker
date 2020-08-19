@@ -15,7 +15,7 @@ docker logs <container_id>
 ```
 
 Next to test the API with Swagger:
-http://127.0.0.1:8000/\_\_swagger\_\_/
+http://127.0.0.1:8000/__swagger__/
 
 To kill the API:
 ```
